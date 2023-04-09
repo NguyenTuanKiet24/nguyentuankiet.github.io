@@ -6,7 +6,7 @@
   .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(https://scontent.fdad3-5.fna.fbcdn.net/v/t39.30808-6/335483913_1565463327283865_6040341786655805809_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SJbveIyoygUAX-4qExs&_nc_ht=scontent.fdad3-5.fna&oh=00_AfD7irkZm052s4gOEKCrmodSvLIOTiSwrIAuhz5IJ2ZRDg&oe=6437D841);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.15752-9/291483586_571173414392712_3965228772593645752_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=uicfHE6lvjgAX9qPLy6&_nc_ht=scontent.fsgn2-6.fna&oh=03_AVJ4QeARv3pHkL8428vaDYoJ0T6e_9aukmk1hqrtRstKnw&oe=62ECF704);
     background-position: center;
     background-size:cover;
     position:relative;
@@ -75,7 +75,6 @@
     background: transparent;
     position: relative;
     cursor: pointer;
-    border-radius: 25px;
   }
   .hero-bth:hover{
     border: 1px solid #f44336;
@@ -138,13 +137,13 @@
   }
   
   .row{
-    margin-top: 5%; 
+    margin-top: 5%;
     display: flex;
     justify-content: space-between;
   }
   .course-col{
     flex-basis: 30%;
-    background: #d3d613;;
+    background: #44269f;;
     border-radius: 10px;
     margin-bottom: 5%;
     padding: 20px 12px;
@@ -253,4 +252,4 @@
     text-transform: uppercase;
     opacity: .4;
     font-weight: 200;
-  }
+  }      
